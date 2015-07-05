@@ -4,7 +4,7 @@
 
 ## Presentation
 
-Transforms a &lt;select&gt; element containing a list of icons - in one or more &lt;optgroup&gt; element-  into a flat icon picker
+Transforms a &lt;select&gt; containing a list of icons - in one or more &lt;optgroup&gt; -  into a flat icon picker
 
 Works with both Bootstrap and Font-Awesome icons.
 
