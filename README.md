@@ -24,7 +24,7 @@ See the [online demo](https://jsfiddle.net/373169Lg/2/) with Font-Awesome icons.
 
 ## How to use
 
-Use a &lt;select&gt; containing a list of icons (e.g.: &lt;option&gt;glyphicon-refresh&lt;option&gt;) in one or more &lt;optgroup&gt;:
+Use a &lt;select&gt; containing a list of icons (e.g.: &lt;option&gt;glyphicon-refresh&lt;/option&gt;) in one or more &lt;optgroup&gt;:
 
 NB: there are several options that can be passed through a javascript object when the plugin is called.
 - maxIconsPerPage - default is (int) 35, any integer greather than 0 is accepted
