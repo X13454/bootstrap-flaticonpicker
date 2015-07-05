@@ -29,7 +29,7 @@ Use a &lt;select&gt; containing a list of icons (e.g.: &lt;option&gt;glyphicon-r
 NB: there are several options that can be passed through a javascript object when the plugin is called.
 - maxIconsPerPage - default is (int) 35, any integer greather than 0 is accepted
 - allCategoriesText -  default is (string) 'All categories', any string is accepted
-- iconSet - default is 'glyphicon', the only alternative is 'fa', which stands for fontawesome
+- iconSet - default is 'glyphicon', the only alternative is 'fa', which stands for Font-Awesome
 
 ```HTML
 <select data-flaticonpicker-selector>
@@ -71,7 +71,7 @@ NB: there are several options that can be passed through a javascript object whe
 </select>
 ```
 
-Add the dependency files (jQuery and Bootstrap 3 CSS):
+Add the dependency files (jQuery and Bootstrap 3 CSS and optionally Font-Awesome CSS):
 
 ```HTML
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
