@@ -19,6 +19,7 @@ Becomes this:
 ## Demo
 
 See the [online demo](https://jsfiddle.net/373169Lg/1/) with Bootstrap icons.
+
 See the [online demo](https://jsfiddle.net/373169Lg/2/) with Font-Awesome icons.
 
 ## How to use
