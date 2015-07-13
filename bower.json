@@ -1,6 +1,5 @@
 {
   "name": "bootstrap-flaticonpicker",
-  "version": "0.1.0",
   "main": [
     "bootstrap-flaticonpicker.js"
   ],
